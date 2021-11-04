@@ -26,13 +26,13 @@
         <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
           <div class="carousel-inner">
             <div class="carousel-item active">
-              <img src="kaos.png" class="d-blok w-100" alt="...">
+              <img src="sweets.png" class="d-blok w-100" alt="...">
             </div>
             <div class="carousel-item">
-              <img src="fashion.png" class="d-blok w-100" alt="...">
+              <img src="popcorn.png" class="d-blok w-100" alt="...">
             </div>
             <div class="carousel-item">
-              <img src="jacket.png" class="d-blok w-100" alt="...">
+              <img src="snack 3.png" class="d-blok w-100" alt="...">
             </div>
           </div>
         </div>
@@ -49,15 +49,15 @@
   <div class="card-body">
     <div class="row">
       <div class="col-4 text-center">
-        <a href="produk1.html"><img src="baju.png" width="80" height="80">
+        <a href="produk1.html"><img src="eat.png" width="80" height="80">
         <p style="font-size: 8px;">Makanan</p></a>
       </div>
       <div class="col-4 text-center">
-        <a href="produk1.html"><img src="fashion.png"width="80" height="80">
+        <a href="produk1.html"><img src="hotdog 2.png"width="80" height="80">
         <p style="font-size: 8px;">Makanan</p></a>
       </div>
        <div class="col-4 text-center">
-        <a href="produk1.html"><img src="bajuTas.png" width="80" height="80">
+        <a href="produk1.html"><img src="makanan2.png" width="80" height="80">
         <p style="font-size: 8px;">Makanan</p></a>
       </div>
         </div>
@@ -68,7 +68,7 @@
         Deskripsi Item
         </p>
         <p class="lead">
-           
+         
           </p>
         
             </div>
